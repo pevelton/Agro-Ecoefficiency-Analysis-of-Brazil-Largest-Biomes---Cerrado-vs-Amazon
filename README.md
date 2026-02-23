@@ -4,7 +4,7 @@ README (English Version)
 
 This repository contains the datasets, R scripts, figures, and manuscript files used in the study:
 
-**“Cerrado ou Amazônia? Uma análise de ecoeficiência agropecuária dos maiores biomas do Brasil”**
+**“Cerrado or Amazon? An Analysis of Agricultural Ecoefficiency in Brazil’s Largest Biomes”**
 
 ## Overview
 
